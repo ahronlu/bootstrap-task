@@ -1,0 +1,450 @@
+html body {
+    font-family: 'Poppins', sans-serif;
+}
+
+body .second h5 {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+nav h3 {
+    font-size: 8px;
+}
+
+nav a {
+    display: block;
+}
+
+body section h4 {
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.logo {
+    margin: auto 0;
+    width: 35px;
+    height: 35px;
+}
+
+body nav {
+    background: #2a2f42;
+}
+
+header .headerow2 {
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+header .div-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background: #2a2f42;
+}
+
+header .bell-s {
+    position: absolute;
+    top: 8px;
+    font-size: 8px;
+    right: 100px;
+    background-color: red;
+    border-radius: 20px;
+    padding: 0 4px;
+    color: white;
+}
+
+header .user {
+    display: none;
+}
+
+nav a {
+    font-size: 10px;
+}
+
+nav p {
+    font-size: 8px;
+}
+
+nav .dash-s {
+    position: absolute;
+    right: 10px;
+    top: 43px;
+    font-size: 8px;
+    color: white;
+    padding: 0 4px;
+    border-radius: 10px;
+    background: lightblue;
+    display: ;
+}
+
+.social-source .fab {
+    padding: 16px 18px;
+}
+
+body main .social .fab {
+    padding: 8px 10px;
+}
+
+
+nav{
+    font-size: 10px;
+    color: #9da3bb;
+}
+
+nav i {
+    font-size: 15px;
+}
+
+header i {
+    font-size: 18px;
+}
+
+
+.orders i, .revenue i, .average i {
+    font-size: 18px;
+    transform: skewX(-9.0turn);
+}
+
+header .headerow1 {
+    display: none;
+}
+
+header img {
+    width: 25px;
+    height: 25px;
+}
+
+html body .font-weight-bold {
+    font-size: 12px;
+}
+
+main .text-uppercase {
+    font-size: 16px;
+}
+
+
+.first .welcome div {
+    position: relative;
+}
+
+.container-fluid .welcome .profile {
+    width: 35%;
+}
+
+.first .user {
+    padding-right: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome > div > img {
+    width: 40%;
+    position: absolute;
+    left: 18px;
+    top: 82%;
+}
+
+body .view-more {
+    width: 75px;
+}
+
+.first .welcome {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: #d4dbf8;
+}
+html body {
+    font-size: 10px;
+}
+
+.circle {
+    width:37px; 
+    height:37px;
+    background:blue;
+    border-radius:100%;
+    position:relative;
+  }
+  
+  .kav {
+    width:20%;
+    height:100%;
+    background-color:#fff;
+    opacity:0.3;
+    margin-left: 30%;
+    transform:skewX(-35deg);
+  }
+
+.bx-copy-alt {
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+
+
+.bx-archive-in {
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+
+
+.bx-purchase-tag {
+    top: 10px;
+    left: 10px;
+    position: absolute;
+}
+
+
+.email-sent>div {
+    display: flex;
+}
+
+.email-sent .year {    
+    text-align: center;
+    width: 33%;
+    height: 30px;
+}
+
+.social-source i {
+    background: #d4dbf8;
+}
+ 
+.social-source .social {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.activity table {
+    vertical-align: top;
+    padding-top: 0;
+    height: 75%;
+    text-align: left;
+    padding-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.activity tr {
+    vertical-align: top;
+}
+
+.activity tr th {
+    width: 38px;
+}
+
+.bx-map-pin {
+    text-align: center;
+    font-size: 50px;
+}
+
+.top-cities-selling table .bg-primary {
+    width: 85px;
+    height: 5px;
+}
+
+.top-cities-selling table .bg-success {
+    width: 75px;
+    height: 5px;
+}
+
+.top-cities-selling table .bg-warning {
+    width: 65px;
+    height: 5px;
+}
+
+.latest-transaction span {
+    border-radius: 20px;
+    background-color: #d4dbf8;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.latest-transaction .view-details {
+    display: block;
+    border-radius: 20px;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    width: 72px;
+    text-align: center;
+}
+
+main .container-fluid .first {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.social-source {
+    margin-bottom: 1rem;
+}
+
+.activity {
+    margin-bottom: 1rem;
+}
+
+main .container-fluid .second section {
+    margin-bottom: 1rem;
+}
+
+html body .email-sent{
+    margin-bottom: 1rem;
+    height: 80px;
+}
+
+@media (min-width: 768px) {
+    
+    header .bell-s {
+        top: 8px;
+        right: 100px;
+    }
+
+    main .container-fluid .second section {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    main .container-fluid .second .orders {
+        margin-right: 0.5rem;
+    }
+    
+    .revenue {
+        margin-right: 0.5rem;
+        margin-left: 0.5rem;
+    }
+
+    .average {
+        margin-left: 0.5rem;
+    }
+
+    body main .orders {
+        margin-bottom: 1rem;
+    }
+
+    body main .revenue {
+        margin-bottom: 1rem;
+    }
+
+    body main .average {
+        margin-bottom: 1rem;
+    }
+    
+    .social-source {
+        margin-top: 1rem;
+    }
+
+    main .container-fluid .second section {
+        margin-top: 1rem;
+    }
+
+    .activity {
+        height: 350px;
+    }
+}
+
+@media (min-width: 992px) {
+    
+    body header .div-logo {
+        display: inline-block;
+        background: #2a2f42;
+    }
+
+    header .logo {
+        width: 30px;
+        height: 30px;
+    }
+
+    .headerow {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    header .search {
+        justify-self: flex-start;
+        align-self: flex-start;
+        border-radius: 25px;
+        background: #f4f3f9;
+        border: 0;
+        width: 165px;
+        height: 30px;
+        padding-left: 33px;
+        position: relative;
+    }
+
+    header .headerow1 {
+        display: block;
+    }
+
+    .headerow1 .bx-search-alt {
+        position: absolute;
+        top: 23px;
+        left: 25px;
+    }
+
+    header .headerow2 {
+        width: 78%;
+        display:flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    header .user {
+        display: inline-block;
+    }
+
+    main .container-fluid .first {
+        padding-right: 1rem;
+    }
+    
+    main .container-fluid .second section {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    main .container-fluid .second .orders {
+        margin-right: 0.5rem;
+    }
+
+    .revenue {
+        margin-right: 0.5rem;
+        margin-left: 0.5rem;
+    }
+
+    .average {
+        margin-left: 0.5rem;
+    }
+
+    body main .second .email-sent {
+        margin-top: 1rem;
+        height: 80%;
+    }
+
+    body header .div-logo {
+        height: 62px;
+    }
+
+    .logo {
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+
+    .social-source {
+        margin-right: 1rem;
+    }
+
+    .top-cities-selling {
+        margin-left: 1rem;
+    }
+    
+    .activity, .social-source, .top-cities-selling {
+        margin-top: 1rem;
+    }
+
+    .activity {
+        height: 350px;
+        margin-bottom: 0;
+    }
+    
+  }
